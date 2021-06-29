@@ -1,1 +1,2 @@
 puts "rubyをかけます"
+puts "rugiiigit "
